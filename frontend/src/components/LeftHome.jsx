@@ -31,7 +31,7 @@ function LeftHome() {
             <div className='w-full h-[100px] flex items-center justify-between p-6 bg-gray-900 bg-opacity-50 backdrop-blur-sm'>
                 <div className='flex items-center gap-3'>
                     <img src={logo} alt="Logo" className='w-12 h-12 rounded-xl'/>
-                    <span className='text-white text-xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent'>
+                    <span className='text-white text-xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text'>
                         SocialApp
                     </span>
                 </div>
