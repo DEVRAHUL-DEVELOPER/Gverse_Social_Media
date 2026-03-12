@@ -27,7 +27,7 @@ import Notifications from './pages/Notifications'
 import { setNotificationData } from './redux/userSlice'
 import UserList from './components/UserList' // <-- NEW
 
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://gverse-social-media-iglj.onrender.com"
 
 function App() {
   const dispatch = useDispatch()
